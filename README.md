@@ -4,12 +4,12 @@ This project focuses on analyzing and cleaning data from a simulated social medi
 # 📁 Project Structure
 <pre><code> 📦 Social Network Data Analysis ├── 📁 notebooks │ ├── 01_data_display.ipynb # Display users and pages │ ├── 02_data_cleaning.ipynb # Clean and validate data │ ├── 03_people_you_may_know.ipynb # Recommend friends │ └── 04_pages_you_may_like.ipynb # Recommend pages ├── 📁 data │ ├── data.json # Original dataset │ ├── data2.json # Dataset with errors │ ├── massive_data.json # Large dataset for testing │ └── cleaned_data2.json # Cleaned output dataset ├── README.md # Project documentation </code></pre>
 
-# 🧠 Features Implemented
+## 🧠 Features Implemented
 
 1. Data Display (01_data_display.ipynb)
-- Loads and parses JSON data for users and pages.
-- Displays user details including their friends and liked pages.
-- Displays the list of all available pages.
+ - Loads and parses JSON data for users and pages.
+ - Displays user details including their friends and liked pages.
+ - Displays the list of all available pages.
 
 2. Data Cleaning (02_data_cleaning.ipynb)
 - Removes:
