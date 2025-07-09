@@ -1,4 +1,4 @@
-# 📊 Social Network Data Analysis using Python
+# 📊 Social Media Data Analysis using Python
 This project focuses on analyzing and cleaning data from a simulated social media platform. It demonstrates how to handle JSON data, clean inconsistencies, and implement recommendation systems like "People You May Know" and "Pages You May Like" using Python.
 
 # 📁 Project Structure
